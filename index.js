@@ -16,7 +16,7 @@ switch(metodoPago){
         alert(`Seleccionaste pagar en efectivo con un 15% de descuento, tenes que pagar un total de $${importeTotal*0.85}`)
         break
     case 2:
-        alert(`Seleccionaste pagar con tarjeta de débuto con un 10% de descuento, tenes que pagar un total de $${importeTotal*0.90}`)
+        alert(`Seleccionaste pagar con tarjeta de débito con un 10% de descuento, tenes que pagar un total de $${importeTotal*0.90}`)
         break
     case 3:
         alert(`Seleccionaste pagar con tarjeta de crédito con un 5% de descuento, tenes que pagar un total de $${importeTotal*0.95}`)
